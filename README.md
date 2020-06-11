@@ -14,3 +14,5 @@ an error because module 2 seeks to read 2 files from ./data, but there are alrea
 
 Note: The data is obtained from the Secretary of Health.
 Note: On June 10, 2020, the data could not be accessed.
+
+Data: http://187.191.75.115/gobmx/salud/datos_abiertos
